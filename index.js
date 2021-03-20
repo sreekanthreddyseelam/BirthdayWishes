@@ -22,7 +22,7 @@
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
   
-            headline.innerText = "Many More Happy Returns Of The Akka";
+            headline.innerText = "Many More Happy Returns Of The Day Akka";
             headline.style.color ="#433520";
             
             countdown.style.display = "none";
